@@ -6,10 +6,10 @@ Modify the analog video circuit of a VIC 20 to use modern parts
 My main intention here was to learn about the video generation circuitry of the VIC-20
 and maybe come up with some way to interface it with a RGBtoHDMI to generate HDMI.
 
-While I did not succeed with reliably quantifying the analog signal back to its digital
-source, I did make some improvements on the overall analog circuit. 
+While I did not succeed in reliably quantizing the analog signal back to its digital
+form, I did make some improvements on the overall analog circuit. 
  
-## Replace original videa amplifier with sockets
+## Replace original video amplifier with sockets
 
 ![alt text](pic/empty.jpg "Replaced analog parts with pin headers")
 
@@ -41,5 +41,5 @@ luma+composite to the output port. So the machine can be used with the usual com
 with an s-video equipment. 
 
 A voltage regulator is used to get a stable reference voltage to drive the VIC's luma output DAC. 
-This should provide the most noise-free signals possible.
+This should provide the most noise-free signal possible.
  
