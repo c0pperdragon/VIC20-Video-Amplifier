@@ -24,7 +24,7 @@ prepared to receive two signals to be forwarded to the A/V connector on pin 4 an
 ![alt text](pic/underside.jpg "Forward signals to the A/V port")
 
 Using two now unused holes (all parts are removed here so the traces do not matter) the pin socket
-on the front side are forwarded with two wires to the A/V connector. Also the PCB trace between 
+on the front side is forwarded with two wires to the A/V connector. Also the PCB trace between 
 pin 4 and pin 5 under the connector had to be cut. 
 
 ## Insert an amplifier PCB
